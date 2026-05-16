@@ -1,0 +1,10 @@
+2026-05-16 03:17:20,417 - INFO - === Starting API to SQL Pipeline ===
+2026-05-16 03:17:20,631 - INFO - Successfully retrieved 10 records from API
+2026-05-16 03:17:20,634 - INFO - Insertion complete. Inserted: 10, Skipped: 0
+2026-05-16 03:17:20,634 - INFO - === Pipeline finished successfully ===
+
+2026-05-16 03:24:12,400 - INFO - === Starting Automated API → SQL Pipeline ===
+2026-05-16 03:24:12,629 - INFO - Retrieved 10 records from API
+2026-05-16 03:24:12,637 - INFO - Completed: 10 inserted, 0 skipped
+2026-05-16 03:24:12,637 - INFO - === Pipeline finished ===
+
