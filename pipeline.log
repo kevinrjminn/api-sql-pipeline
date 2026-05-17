@@ -8,3 +8,8 @@
 2026-05-16 03:24:12,637 - INFO - Completed: 10 inserted, 0 skipped
 2026-05-16 03:24:12,637 - INFO - === Pipeline finished ===
 
+2026-05-16 03:30:26,265 - INFO - === Starting Automated API → SQL Pipeline ===
+2026-05-16 03:30:26,479 - INFO - Retrieved 10 records from API
+2026-05-16 03:30:26,488 - INFO - Completed: 10 inserted, 0 skipped
+2026-05-16 03:30:26,488 - INFO - === Pipeline finished ===
+
