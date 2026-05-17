@@ -1,4 +1,6 @@
 # API → SQL Data Pipeline
+**Live  Repository:**  
+[https://github.com/kevinrjminn/api-sql-pipeline](https://github.com/kevinrjminn/api-sql-pipeline)
 
 A robust, automated data pipeline that pulls data from a REST API and stores it in a SQL database. Built as a 
 portfolio project to demonstrate real-world data engineering skills for small business automation.
